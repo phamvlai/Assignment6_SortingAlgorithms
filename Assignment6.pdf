@@ -1,0 +1,31 @@
+\title{Assignment 6: Sorting}
+\author{
+        Lai Pham \\
+                Data Structure\\
+        Chapman University\\
+     
+}
+\date{\today}
+
+\documentclass[12pt]{article}
+
+\begin{document}
+\maketitle
+
+
+
+\paragraph{Outline}
+This assignment is in regards to sorting algorithms. The time differences were more than I expected, especially the merge sort. The tradeoffs in picking one algorithms over another is time, but also the data size, as well as memory and RAM availible. While study do show that programming language can impact the properties of the results, functional language are better than procedural languages. The shortcomings of this empirical analysis is the system used to run the data, as multiple systems were not used. In addition, the dataset size could be larger as well to see even a bigger difference in the sorting methods. 
+
+
+
+\section{Results}\label{results}
+
+
+\section{Conclusions}\label{conclusions}
+
+
+
+
+\end{document}
+
